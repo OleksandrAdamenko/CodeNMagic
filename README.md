@@ -1,4 +1,4 @@
-# RockStar among HTML5 Games ;)
+# RockStar Among HTML5 Games ;)
 
 # Welcome to Code N' Magic!
 Hello and welcome to **Code N' Magic's** GitHub page.
